@@ -36,7 +36,7 @@ factorial(foo)
 
 foo
 rm(foo)
-foo
+#foo
 
 pi
 pi <- 1
@@ -81,9 +81,9 @@ class(0.00001)
 "hello"
 class("hello")
 
-"hello" + "world"
+#"hello" + "world"
 nchar("hello")
-past("hello", "world")
+paste("hello", "world")
 
 # Warm up
 # ---------
