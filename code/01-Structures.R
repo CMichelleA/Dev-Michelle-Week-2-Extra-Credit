@@ -81,7 +81,7 @@ class(0.00001)
 "hello"
 class("hello")
 
-#"hello" + "world"
+"hello" + "world"
 nchar("hello")
 paste("hello", "world")
 
