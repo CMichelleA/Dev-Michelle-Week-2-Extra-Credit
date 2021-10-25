@@ -139,7 +139,6 @@ nvec
 
 nlst <- list(one = 1, two = 2, many = c(3, 4, 5))
 nlst
-nvec = nvec - nlst
 
 ndf <- data.frame(numbers = c(1, 2, 3), 
           letters = c("R","S","T"), 
